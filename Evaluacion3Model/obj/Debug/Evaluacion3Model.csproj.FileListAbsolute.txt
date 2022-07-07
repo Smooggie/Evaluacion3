@@ -1,0 +1,12 @@
+C:\Users\frank\OneDrive\Escritorio\Progra4\Evaluacion3Web\Evaluacion3Model\bin\Debug\Evaluacion3Model.dll
+C:\Users\frank\OneDrive\Escritorio\Progra4\Evaluacion3Web\Evaluacion3Model\bin\Debug\Evaluacion3Model.pdb
+C:\Users\frank\OneDrive\Escritorio\Progra4\Evaluacion3Web\Evaluacion3Model\obj\Debug\Evaluacion3Model.csproj.AssemblyReference.cache
+C:\Users\frank\OneDrive\Escritorio\Progra4\Evaluacion3Web\Evaluacion3Model\obj\Debug\Evaluacion3Model.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Escritorio\Progra4\Evaluacion3Web\Evaluacion3Model\obj\Debug\Evaluacion3Model.dll
+C:\Users\frank\OneDrive\Escritorio\Progra4\Evaluacion3Web\Evaluacion3Model\obj\Debug\Evaluacion3Model.pdb
+C:\Users\Francisco\Desktop\Evaluacion3Web\Evaluacion3Web\Evaluacion3Model\bin\Debug\Evaluacion3Model.dll
+C:\Users\Francisco\Desktop\Evaluacion3Web\Evaluacion3Web\Evaluacion3Model\bin\Debug\Evaluacion3Model.pdb
+C:\Users\Francisco\Desktop\Evaluacion3Web\Evaluacion3Web\Evaluacion3Model\obj\Debug\Evaluacion3Model.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\Evaluacion3Web\Evaluacion3Web\Evaluacion3Model\obj\Debug\Evaluacion3Model.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\Evaluacion3Web\Evaluacion3Web\Evaluacion3Model\obj\Debug\Evaluacion3Model.dll
+C:\Users\Francisco\Desktop\Evaluacion3Web\Evaluacion3Web\Evaluacion3Model\obj\Debug\Evaluacion3Model.pdb
